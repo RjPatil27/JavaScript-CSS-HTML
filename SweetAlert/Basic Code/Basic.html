@@ -1,0 +1,19 @@
+<!-- This is Basic pop up using sweetalert js library -->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sweet Alert </title>
+	<link rel="stylesheet" type="text/css" href="sweetalert2.css">
+</head>
+<body>
+	<button id = "btnAlert">Click Here</button>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="sweetalert2.js"></script>
+	<script>
+		$('#btnAlert').click(function(e){
+			swal('You Won ..!')
+		})
+	</script>
+</body>
+</html> 
