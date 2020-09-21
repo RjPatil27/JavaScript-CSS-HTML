@@ -1,0 +1,53 @@
+body{
+	width: 80%;
+	border: 20px solid #848588;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 700px;
+}
+
+.classname{
+	margin-bottom: 20px;
+}
+
+.date{
+	color: #273134;
+	letter-spacing: 0.2em;
+	text-transform: uppercase;
+}
+
+#pagename{
+	color: #273154;
+	padding: 20px 20px 20px 0px;	
+}
+
+#first{
+	border-left: 5px solid #273154;
+	padding-left: 5px;
+}
+
+#image{
+	margin-left: 10px;
+}
+
+#second{
+	border-left: 5px solid #273154;
+	padding-left: 5px;
+}
+
+
+#third{
+	border-left: 5px solid #273154;
+	padding-left: 5px;
+}
+
+p:first-letter{
+	font-size: 40px;
+}
+
+p{
+	background: #f7f7f7;
+	color: black;
+	box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+}
