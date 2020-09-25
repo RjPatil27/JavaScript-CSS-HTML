@@ -4,6 +4,7 @@ font-size: 1.5rem;
 .navbar-toggler.toggler-example {
 cursor: pointer;
 }
+/* Following CSS is only for Span class, They are simply different color for Menu Bar */
 .dark-blue-text {
 color: #0A38F5;
 }
